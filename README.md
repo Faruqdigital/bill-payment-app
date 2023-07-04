@@ -1,7 +1,8 @@
 Tip calculator app solution
 
 # Screenshot
-![](./images/screenshot.png)
+![Screenshot_22](https://github.com/Faruqdigital/bill-payment-app/assets/107166036/9ead1e8c-16c6-4120-ba10-06ed664d67c9)
+
 
 
 # Built with
